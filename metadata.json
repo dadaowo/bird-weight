@@ -1,0 +1,5 @@
+{
+  "name": "BudgieFit - 鸚鵡體重管理",
+  "description": "專為虎皮鸚鵡設計的體重管理系統。支援多隻鳥寶數據比對、圖表分析(長條/折線)、Excel 匯出入及歷史紀錄管理。",
+  "requestFramePermissions": []
+}
